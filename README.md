@@ -1,4 +1,6 @@
-<img src="https://abchprod.wpengine.com/wp-content/uploads/2024/10/Trident-White.png" alt="Trident Icon" width="100" height="100">
+<p align="left">
+  <img height="100" width="100" src="https://abchprod.wpengine.com/wp-content/uploads/2024/05/Trident-Color.png" alt="Trident"/>
+</p>
 
 # Trident Tests for (X)
 This repository serves as an example of tests written with the Solana Fuzzing Framework [Trident](https://github.com/Ackee-Blockchain/trident).
